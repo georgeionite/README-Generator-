@@ -49,7 +49,7 @@ const questions = [
       },
       {
         type: 'input',
-        name: 'tests',
+        name: 'test',
         message: 'Provide instructions on how to run tests for your project:',
       },
       {
