@@ -35,3 +35,5 @@ To run tests, execute `npm test` in the terminal. (Note: You'll need to implemen
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+ Walk through video : https://app.screencastify.com/v3/watch/rBvPRqN5loT0601KkExS
+Github Repository: https://github.com/georgeionite/README-Generator-
