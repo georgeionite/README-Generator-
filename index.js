@@ -12,6 +12,27 @@ const questions = [
       },
       {
         type: 'input',
+        name: 'description',
+        message: 'Provide a detailed description of your project:',
+      },
+      {
+        type: 'input',
+        name: 'features',
+        message: 'What are the key features of your project? List them:',
+      },
+      {
+        type: 'input',
+        name: 'technologies',
+        message: 'What technologies and tools were used in the development of this project?',
+      },
+      {
+        type: 'input',
+        name: 'credits',
+        message: 'Would you like to acknowledge any individual or organization for their contributions?',
+      },
+    
+      {
+        type: 'input',
         name: 'installation',
         message: 'How can one install your project? Provide step-by-step instructions:',
       },
